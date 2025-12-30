@@ -6,6 +6,7 @@ by Songyun Deng, Yaoxin Lai, Li Zhou, Ruiyuan Pei, Hai Qin, Shao Xiang, Qiaokang
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M-glzHcHpbc?si=Mx--1PTc8zBQL_Yc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 which is in **the process of peer review**.
 # Introduction
 This dataset is built upon the [KWG2024](https://github.com/HNUsong/KWG2024) and the [Xrobot](https://github.com/TDA-2030/XRobot)-based robotic system. Specifically, we trained the grasping model on KWG2024, allowing the Xrobot-based system to autonomously grasp and label targets. The labels were then manually reviewed and corrected to create the KWG-CL dataset. This dataset is divided into 5 tasks. According to the task ID number, the complexity of the image background will gradually increase. Specifically, in TASK1, there are a total of 418 RGB and depth images; in TASK2, there are a total of 484 RGB and depth images; in TASK3, there are a total of 512 RGB and depth images; in TASK4, there are a total of 434 RGB and depth images; and in TASK5, there are a total of 480 RGB and depth images. All the images were captured via a Realsense D455 camera.
