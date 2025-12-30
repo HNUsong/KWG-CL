@@ -1,6 +1,8 @@
 # KWG-CL
 This is a continual learning dataset for 2D grasping in kitchen waste sorting scenarios, as described in the following paper:
 
+**An Efficient Continual Learning Grasp Detection Method with Lightweight RGB-D Fusion and Automated Data Annotation for Kitchen Waste Sorting**,  
+by Songyun Deng, Yaoxin Lai, Li Zhou, Ruiyuan Pei, Hai Qin, Shao Xiang, Qiaokang Liang, Wei Sun, Dan Zhang, and Yaonan Wang
 
 which is in **the process of peer review**.
 # Introduction
