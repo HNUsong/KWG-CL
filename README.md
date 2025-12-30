@@ -4,9 +4,8 @@ This is a continual learning dataset for 2D grasping in kitchen waste sorting sc
 **An Efficient Continual Learning Grasp Detection Method with Lightweight RGB-D Fusion and Automated Data Annotation for Kitchen Waste Sorting**,  
 by Songyun Deng, Yaoxin Lai, Li Zhou, Ruiyuan Pei, Hai Qin, Shao Xiang, Qiaokang Liang, Wei Sun, Dan Zhang, and Yaonan Wang
 
-[![Now in Android: 55] // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://youtu.be/M-glzHcHpbc "Now in Android: 55") // Video Link
+<iframe width="560" height="315" src="https://youtu.be/M-glzHcHpbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 which is in **the process of peer review**.
